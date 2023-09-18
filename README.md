@@ -8,7 +8,7 @@
 
 #### About Me
 
-👩‍⚕️ In 2019, I graduated from medical university and worked as a doctor for three years.🩺
+👩‍⚕️ In 2019 I graduated from medical university and worked as a doctor for three years.🩺
 
 <br>
 
@@ -26,12 +26,12 @@
 
 #### Skills
 
-![HTML](https://img.shields.io/badge/HTML-Expert-lightgreen)
-![CSS](https://img.shields.io/badge/CSS-Advanced-gold)
-![Git](https://img.shields.io/badge/Git-Advanced-gold)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-gold)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-orange)
-![Angular](https://img.shields.io/badge/Angular-Intermediate-orange)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
+![Git](https://img.shields.io/badge/Git-Intermediate-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
+![TypeScript](https://img.shields.io/badge/TypeScript-Novice-lightblue)
+![Angular](https://img.shields.io/badge/Angular-Novice-lightblue)
 ![SQL](https://img.shields.io/badge/SQL-Novice-lightblue)
 ![NodeJS](https://img.shields.io/badge/NodeJS-Beginner-lightgray)
 ![AWS](https://img.shields.io/badge/AWS-Beginner-lightgray)
