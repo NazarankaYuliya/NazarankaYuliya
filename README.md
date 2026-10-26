@@ -1,4 +1,4 @@
-### 👋 Hello, I'm Yuliya Nazaranka - Junior Frontend Developer
+### 👋 Hello, I'm Yuliya Nazaranka - Frontend Developer
 
 <br>
 
