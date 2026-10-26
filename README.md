@@ -1,48 +1,24 @@
-### 👋 Hello, I'm Yuliya Nazaranka - Frontend Developer
+# Hi, I'm Yuliya Nazaranka 👋
 
-<br>
+**Frontend / Full-Stack Developer** · React · Next.js · TypeScript · Adobe Experience Manager
 
-💉 Medical Doctor 🌡️ | 💻 Aspiring Frontend Developer 🚀 | 📚 Lifelong Learner 🧠
+Based in Gdańsk, Poland 🇵🇱
 
-<br>
+## About me
 
-#### About Me
+- 💼 Frontend Developer at **EPAM Systems**: building components for enterprise websites on Adobe Experience Manager (AEM)
+- 🔨 Freelance developer for a German auction house: built their [website](https://app.auktionshaus-rehm.de/en) from scratch, from architecture to deployment (Next.js, TypeScript, Vercel), and develop business logic and integrations (DHL, Lexware) in their Ninox database
+- ⚡ Built a real-time online auction platform from scratch (Next.js, MongoDB, Pusher), used in production for several auctions with 300+ registered bidders
+- 🩺 Medical doctor by education. I switched to IT and bring an analytical, detail-oriented approach to engineering
 
-👩‍⚕️ In 2019 I graduated from medical university and worked as a doctor for three years.🩺
+## Tech stack
 
-<br>
+![Skills](https://skillicons.dev/icons?i=js,ts,html,css,sass,react,nextjs,tailwind,nodejs,mongodb,vercel,git,figma&perline=13)
 
-🌍 After relocating to a new country, I decided to switch to programming. I believe my medical knowledge might be valuable for certain projects. I recently completed the EPAM UpskillMe Frontend Mentoring Program. 🚀
+**Also:** Adobe Experience Manager (AEM), HTL, Ninox, NextAuth, Pusher, REST APIs, next-intl, accessibility (WCAG), Jira, Scrum
 
-<br>
+## Contact
 
-💻 Currently, I'm actively self-studying Node.js to expand my skill set and develop full-stack capabilities. In addition, I'm diving into AWS fundamentals at RS School to gain expertise in cloud computing and infrastructure management.
-
-<br>
-
-📚 I thrive on learning and am open to new challenges. I'm excited to expand my knowledge and contribute to innovative projects.
-
-<br>
-
-#### Skills
-
-![HTML](https://img.shields.io/badge/HTML-Intermediate-orange)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-orange)
-![Git](https://img.shields.io/badge/Git-Intermediate-orange)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-orange)
-![TypeScript](https://img.shields.io/badge/TypeScript-Novice-lightblue)
-![Angular](https://img.shields.io/badge/Angular-Novice-lightblue)
-![SQL](https://img.shields.io/badge/SQL-Novice-lightblue)
-![NodeJS](https://img.shields.io/badge/NodeJS-Beginner-lightgray)
-![AWS](https://img.shields.io/badge/AWS-Beginner-lightgray)
-
-<br>
-
-#### Let's Connect
-
-📫 I'm actively seeking opportunities in frontend development, whether it be for a job or an internship. If you're interested in working together or have any advice to share, please feel free to reach out. Let's connect and make something awesome together! 🚀
-
-- E-mail: [nazarenko.ylia](mailto:nazarenko.ylia@gmail.com)
-- Telegram: [@nazarenkoylia](https://t.me/nazarenkoylia)
-
-- Linkedin: [Yuliya Nazaranka](https://www.linkedin.com/in/yuliya-nazaranka-91a777257/?locale=en_US)
+- 📧 [nazarenko.ylia@gmail.com](mailto:nazarenko.ylia@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yuliya-nazaranka-91a777257/)
+- ✈️ [Telegram](https://t.me/nazarenkoylia)
